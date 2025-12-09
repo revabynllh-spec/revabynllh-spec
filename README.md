@@ -4,11 +4,11 @@
 
 ### About Me
 
-**Hello! 👋 I'm someone who enjoys learning, exploring new ideas, and building simple but meaningful projects. I love improving my skills step by step and experimenting with different technologies.
-
-I’m especially interested in web development, creating clean and responsive designs, and turning ideas into something real. I enjoy solving problems, understanding how things work, and continuously growing as a developer.
-
-On my GitHub, you’ll find small projects, experiments, and anything I build while learning. I hope what I share here can be useful or inspiring to others. Feel free to explore, and thanks for stopping by! 🚀**
+<p align="center">
+  Hi! 👋 I'm someone who loves learning, building simple projects, and exploring web development.  
+  I enjoy creating clean, responsive designs and improving my skills step by step.  
+  Thanks for visiting my GitHub! 🚀
+</p>
 
 ### Skil
 
