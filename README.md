@@ -1,4 +1,4 @@
 <h1 align="center">Hi 👋, I'm Reva</h1>
-![Header](./github-header-banner (3))
+![Header](./github-header-banner (3).png)
 
 
